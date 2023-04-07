@@ -29,7 +29,7 @@
     "@popperjs/core": "^2.11.6",
     "classnames": "^2.3.2",
     "flowbite": "^1.6.3",
-    "flowbite-svelte": "^0.30.0",
+    "flowbite-svelte": "^0.34.0",
     "svelte": "^3.54.0",
     "svelte-heros": "^2.6.0"
   },
@@ -65,12 +65,7 @@
     "vitest": "^0.25.8"
   },
   "type": "module",
-  "keywords": [
-    "svelte",
-    "sveltekit",
-    "flowbite",
-    "flowbite blocks"
-  ],
+  "keywords": ["svelte", "sveltekit", "flowbite", "flowbite blocks"],
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=16.0.0"
@@ -85,9 +80,7 @@
       "svelte": "./dist/index.js"
     }
   },
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "svelte": "./dist/index.js",
   "types": "./dist/index.d.ts"
 }
